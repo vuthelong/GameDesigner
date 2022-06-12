@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectible
+  - Enemy
+  - Death
+  - Heart
+  - Gem
+  - Cherry
+  - Ground
+  - Ladder
+  - TreeLog
+  - Spike
+  - CheckPoint
+  - MovingPlatform
+  - Mushroom
+  - GroundFront
+  - Carrot
+  - Gate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - Ground
+  - TreeLog
+  - Ladder
+  - MovingPlatform
+  - GroundFront
+  - Spyke
+  - Middle
+  - Bonefire
+  - Gate
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3204010327
+    locked: 0
+  - name: GroundBehind
+    uniqueID: 2175647333
+    locked: 0
+  - name: FarGround
+    uniqueID: 2946026403
+    locked: 0
+  - name: GroundEntityBehind
+    uniqueID: 3236174761
+    locked: 0
+  - name: Ground
+    uniqueID: 122921569
+    locked: 0
+  - name: CrossableTree
+    uniqueID: 196554563
+    locked: 0
+  - name: Ladder
+    uniqueID: 763126451
+    locked: 0
+  - name: Player
+    uniqueID: 721285111
+    locked: 0
+  - name: Entity
+    uniqueID: 1622891929
+    locked: 0
+  - name: GroundEntityFront
+    uniqueID: 345045041
+    locked: 0
+  - name: Spyke
+    uniqueID: 2133355035
+    locked: 0
+  - name: GroundFront
+    uniqueID: 722267991
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

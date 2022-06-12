@@ -1,0 +1,11 @@
+CACHE MANIFEST
+
+# ver:20191026_19197347;;0
+
+CACHE:
+//static-spartan-eas-s-msn-com.akamaized.net/spartan/vi-vn/_ssc/css/a4dbded4-5611528a/kernel-f78995fe.css?ver=20191026_19197347&fdhead=adflt-unruly,gholdout,intljustinnews-c,jslltelemetry
+//static-spartan-eas-s-msn-com.akamaized.net/spartan/vi-vn/_ssc/js/a4dbded4-91c27796/kernel-a8868247.js?ver=20191026_19197347&fdhead=adflt-unruly,gholdout,intljustinnews-c,jslltelemetry
+//static-spartan-eas-s-msn-com.akamaized.net/_h/975a7d20/webcore/externalscripts/jquery/jquery-2.1.1.min.js
+
+NETWORK:
+*
